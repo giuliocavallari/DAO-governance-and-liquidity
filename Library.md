@@ -14,3 +14,4 @@
     - [AAVE reserve factors](https://governance.aave.com/t/arc-consolidate-aave-v1-v2-amm-reserve-factors-purchase-cvx-and-deploy-to-earn-yield/6797)
        - [Yield diversification](https://every.to/almanack/curve-wars)
     - [DAOn Bad Blockscience](https://blockworks.co/newsletter/daily/?id=28396649)
+[Youtube "The challenges of DAO governance & treasury](https://www.youtube.com/watch?v=lEzT-DQo7RQ)
